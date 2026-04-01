@@ -18,4 +18,4 @@ Windows11,  Google Chrome, Web: Knihy Dobrovský
 **Priority:**
 Low  
 **Přílohy:**
-<img width="1918" height="1042" alt="testing knihy dobrovsky bug_pravopis" src="https://github.com/user-attachments/assets/404d4c82-fdc7-468a-9ecc-170064b53aee" />
+<img width="1919" height="1038" alt="bug1_KD_pravopisna_chyba" src="https://github.com/user-attachments/assets/2dfef952-7756-476a-8364-85cd202d227a" />
